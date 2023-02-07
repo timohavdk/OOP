@@ -1,0 +1,23 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "The Object-Oriented Thought Proccess Matt Weisfeld (summary)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timohavdk/OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timohavdk/OOP/issues"
+  },
+  "homepage": "https://github.com/timohavdk/OOP#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
