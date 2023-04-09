@@ -34,4 +34,8 @@ export default class Car extends Vehicle {
 	public getCarcase(): string {
 		return this.carcase;
 	}
+
+	public turnSteeringWheel(): void {
+		console.log('Turn steering wheel!')
+	}
 }
